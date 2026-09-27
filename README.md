@@ -11,7 +11,7 @@
 | 주차 | 주제 | 노트북 |
 |:---:|---|---|
 | [01](week01_introduction) | **Introduction to Reinforcement Learning**<br>강화학습 소개 | [Returns and the Maze Example — 반환값과 미로 예제](week01_introduction/01_returns_and_maze.ipynb) · [Colab](https://colab.research.google.com/github/narame7/UOS-Reinforcement-Learning/blob/main/week01_introduction/01_returns_and_maze.ipynb)<br>[Gridworld: Prediction and Control — 그리드월드: 예측과 제어](week01_introduction/02_gridworld.ipynb) · [Colab](https://colab.research.google.com/github/narame7/UOS-Reinforcement-Learning/blob/main/week01_introduction/02_gridworld.ipynb) |
-| 03 | **Markov Decision Process**<br>마르코프 결정 과정 | 강의 진도에 맞춰 공개 예정 |
+| [03](week03_markov_decision_process) | **Markov Decision Process**<br>마르코프 결정 과정 | [Student Markov Chain and MRP — 학생 마르코프 체인과 마르코프 보상 과정](week03_markov_decision_process/01_student_mrp.ipynb) · [Colab](https://colab.research.google.com/github/narame7/UOS-Reinforcement-Learning/blob/main/week03_markov_decision_process/01_student_mrp.ipynb)<br>[Student MDP — 학생 MDP: 정책 평가와 최적 가치 함수](week03_markov_decision_process/02_student_mdp.ipynb) · [Colab](https://colab.research.google.com/github/narame7/UOS-Reinforcement-Learning/blob/main/week03_markov_decision_process/02_student_mdp.ipynb) |
 | 04 | **Planning by Dynamic Programming**<br>동적 계획법 | 강의 진도에 맞춰 공개 예정 |
 | 05 | **Model-Free Prediction**<br>모델 프리 예측 | 강의 진도에 맞춰 공개 예정 |
 | 06 | **Model-Free Control**<br>모델 프리 제어 | 강의 진도에 맞춰 공개 예정 |
